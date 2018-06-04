@@ -150,3 +150,9 @@ p {
 	text-align: justify;
 	text-justify: inter-word;
 }
+
+li {
+	margin: 10px 0
+}
+
+
